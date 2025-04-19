@@ -6,6 +6,7 @@ def main():
     ethan : int = chen  # Ethan is the same age as Chen, so set Ethan's age equal to Chen's
 
    # Print out all of the ages!
+    print("Anton is " + str(anton))
     print("Beth is " + str(beth))
     print("Chen is " + str(chen))
     print("Drew is " + str(drew))
